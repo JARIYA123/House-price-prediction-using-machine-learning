@@ -51,6 +51,41 @@ The model is evaluated using:
 R² Score
 Mean Squared Error (MSE)
 Example output:
+R2 Score: 0.60
+Mean Squared Error: 0.52
+# Visualizations
+
+Actual vs Predicted House Prices (Scatter Plot),
+Prediction Error Distribution (Histogram),
+Line Plot comparison of actual and predicted prices,
+These visualizations help in understanding model performance.
+# How to Run the Project
+
+1.Clone the repository
+git clone https://github.com/your-username/house-price-prediction.git
+2.Navigate to the project directory
+cd house-price-prediction
+3.Open Jupyter Notebook
+jupyter notebook
+4.Run house_price_prediction.ipynb
+# Project Structure
+
+house-price-prediction/
+├── house_price_prediction.ipynb
+├── README.md
+└── requirements.txt
+# Results
+
+The model is able to predict house prices with reasonable accuracy, demonstrating a successful beginner-level machine learning project.
+# Author
+
+Jariya
+Aspiring Machine Learning Engineer
+# Acknowledgements
+
+Scikit-learn documentation
+California Housing Dataset
+
 
 
 
